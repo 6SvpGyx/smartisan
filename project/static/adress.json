@@ -1,0 +1,13 @@
+{
+	"status":0,
+	"message":"",
+	"result":[
+		{
+			"addressId":"10001",	
+			"userName":"张三",	
+			"adress":"湖南省|益阳市|沅江市|桥头医院",
+			"tel":"12345678901",	
+			"isDefault":"true"		
+		}
+	]
+}

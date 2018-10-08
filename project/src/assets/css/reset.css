@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+/*html,body { user-select: none; -moz-user-select: none; -webkit-user-select: none; }*/
+body,
+ul,
+ol,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+input,
+select,
+textarea,
+form {
+  margin: 0;
+  padding: 0;
+}
+
+li{
+
+  list-style: none;
+}
+h1,h2,h3{
+	font-weight: normal;
+}
+input,input:focus,input:active{user-select: text;}
